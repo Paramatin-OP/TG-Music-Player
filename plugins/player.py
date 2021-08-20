@@ -479,7 +479,7 @@ async def join_group_call(client, m: Message):
         await mp.delete(m)
         return
     await mp.start_call()
-    chat = await client.get_chat()
+    chat = await client.get_chat(CHAT)
     k=await m.reply_text(f"Succesfully Joined Voice Chat in {chat.title}")
     await mp.delete(k)
     await mp.delete(m)
