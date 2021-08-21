@@ -59,8 +59,8 @@
       "required": false
     },
     "STREAM_URL": {
-      "description": "URL of Radio station or Youtube live video url to stream with /radio command",
-      "value": "https://youtu.be/36YnV9STBqc",
+      "description": "URL of Radio station or Youtube live video url to stream with /radio command. You can leave it coz i have already added Better playlist",
+      "value": "",
       "required": false
     }
   },
