@@ -16,7 +16,7 @@ Plss Don't Forget to star the repo
 
 <h3 align=center >String</h3>
 
-this bot works on Pyrogram so Making telethn string will absolutely give you errors
+this bot works on Pyrogram so Making telethon string will absolutely give you errors
   
 [![Repl.it](https://repl.it/badge/github/Paramatin-op/tg-music-ylaye&theme=midnight-purple)](https://replit.com/@ErichDaniken/Generate-Telegram-String-Session)
 
